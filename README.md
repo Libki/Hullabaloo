@@ -1,3 +1,5 @@
+### Documentation: https://www.jqueryscript.net/other/Notification-Plugin-Bootstrap-4-Hullabaloo.html
+
 # Hullabaloo.js
 
 Простой плагин оповещений, который использует стили стандартных Bootstrap алертов.
